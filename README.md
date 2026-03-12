@@ -1,1 +1,1 @@
-# G-rsel-Programlama-Veri-Taban-Y-netim-Sistemleri-ortak-proje
+# Gorsel-Programlama-Veri-Tabanı-Yonetim-Sistemleri-ortak-proje

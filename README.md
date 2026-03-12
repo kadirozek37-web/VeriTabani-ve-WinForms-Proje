@@ -1,0 +1,1 @@
+# G-rsel-Programlama-Veri-Taban-Y-netim-Sistemleri-ortak-proje
